@@ -2,9 +2,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
+
 <body style="background-color:lightblue;">
-</style>
+
 </head>
 <body>
 
